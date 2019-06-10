@@ -1,2 +1,2 @@
 # ex-catch-mind
-vue, firebase, canvas
+vue, firebase, canvas, socket
